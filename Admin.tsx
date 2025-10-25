@@ -1,6 +1,6 @@
 
 import React, { useState } from 'react';
-import type { Testimonial } from '../types';
+import type { Testimonial } from './types';
 
 const Admin: React.FC = () => {
   const [name, setName] = useState('');
