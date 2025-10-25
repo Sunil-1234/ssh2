@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { TESTIMONIALS } from '../constants';
-import type { Testimonial } from '../types';
+import { TESTIMONIALS } from './constants';
+import type { Testimonial } from './types';
 
 const Testimonials: React.FC = () => {
   return (
