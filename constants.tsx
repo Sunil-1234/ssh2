@@ -43,7 +43,6 @@ export const NAV_LINKS: NavLink[] = [
   { href: '#about', label: 'About Us' },
   { href: '#services', label: 'Services' },
    { href: '#portfolio', label: 'Portfolio' },
-  { href: '#testimonials', label: 'Testimonials' },
   { href: '#contact', label: 'Contact Us' },
 ];
 
