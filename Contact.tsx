@@ -1,5 +1,5 @@
 import React from 'react';
-import { CONTACT_INFO } from '../constants';
+import { CONTACT_INFO } from './constants';
 
 // Fix: Moved ContactInfoItem outside of the Contact component to prevent re-declaration on each render.
 const ContactInfoItem: React.FC<{icon: React.ReactNode; title: string; children: React.ReactNode}> = ({icon, title, children}) => (
