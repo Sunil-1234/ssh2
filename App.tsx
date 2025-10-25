@@ -36,7 +36,6 @@ const App: React.FC = () => {
         <About />
         <Services />
         <Portfolio />
-        <Testimonials />
         <Contact />
       </main>
       <Footer />
