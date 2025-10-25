@@ -1,7 +1,7 @@
 
 import React from 'react';
-import { NAV_LINKS,  CONTACT_INFO } from '../constants';
-import type { NavLink } from '../types';
+import { NAV_LINKS,  CONTACT_INFO } from './constants';
+import type { NavLink } from './types';
 
 const Footer: React.FC = () => {
   const handleNavClick = (e: React.MouseEvent<HTMLAnchorElement>, href: string) => {
