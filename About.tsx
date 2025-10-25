@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { BELIEFS } from '../constants';
+import { BELIEFS } from './constants';
 
 const About: React.FC = () => {
   return (
