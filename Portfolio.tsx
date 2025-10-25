@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { PORTFOLIO_ITEMS } from '../constants';
+import { PORTFOLIO_ITEMS } from './constants';
 
 const Portfolio: React.FC = () => {
   return (
